@@ -18,3 +18,5 @@ Currently, this only works with a fork of the TacticalRMM that enables the query
 
 After having the URL configured, a button will appear in the top of the Computer form.
 
+
+TacticalRMM-Web fork: https://github.com/jpros/tacticalrmm-web 
