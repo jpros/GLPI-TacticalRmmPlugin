@@ -6,12 +6,11 @@ This plugin adds a button to computers to enable administrator to access the cor
 
 # Install
 
-```
-# install
--Inside GLPI's plugins folder create a new folder: tacticalrmm
--Copy files
--Activate
-```
+- Inside GLPI's plugins folder create a new folder: tacticalrmm
+- Copy files
+- Activate
+
+
 # Usage
 You need to set the TacticalRMM URL, and select the best field for the GLPI vs TacticalRMM relation.
 Currently, this only works with a fork of the TacticalRMM that enables the query parameter "search" (PR already done).
